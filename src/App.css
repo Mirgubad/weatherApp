@@ -1,0 +1,10 @@
+.loader__container {
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  background: black;
+  z-index: 99;
+  display: grid;
+  place-items: center;
+}
